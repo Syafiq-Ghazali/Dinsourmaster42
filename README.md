@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syafiq Ghazali</h1>
 <h3 align="center">A undergraduate engineer student studying at the Univeristy of British Columbia</h3>
 
-- 🌱 I’m currently learning **Python, and C**
+- 🌱 I’m still currently learning **Python, and C**
 
 - 📫 How to reach me **syafiqghaza@gmail.com**
+
+- 😀 Here is my Linkedin - www.linkedin.com/in/syafiq-ghazali-6bb719225
 
 - ⚡ Fun fact **I am currently trying to become a electrical engineer**
 
