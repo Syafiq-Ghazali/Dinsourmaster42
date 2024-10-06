@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syafiq Ghazali</h1>
 <h3 align="center">A undergraduate engineer student studying at the Univeristy of British Columbia</h3>
 
-- 🌱 I’m still currently learning **Python, and C**
+- 🌱 I’m still currently learning **Python, Java, and C**
 
 - 📫 How to reach me **syafiqghaza@gmail.com**
 
