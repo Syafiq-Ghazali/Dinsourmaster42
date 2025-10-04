@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syafiq Ghazali</h1>
-<h3 align="center">Undergraduate Mechatronics Engineering Student at the University of British Columbia</h3>
+<h3 align="center">Undergraduate Electrical Engineering Student at the University of British Columbia</h3>
 
 ---
 
@@ -21,9 +21,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
+</a>
 
   <!-- Engineering Tools -->
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
